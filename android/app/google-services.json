@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868004384032",
+    "project_id": "projet-ded24",
+    "storage_bucket": "projet-ded24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868004384032:android:51d21ce734386d4575db45",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3s3dlGiQljDOvdz616VMucyP-vaypnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
